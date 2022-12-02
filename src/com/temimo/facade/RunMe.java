@@ -17,6 +17,5 @@ public class RunMe {
         System.out.println("\nAnd now with Facade: \n");
         Facade facade = new Facade();
         facade.workingProcess();
-
     }
 }
