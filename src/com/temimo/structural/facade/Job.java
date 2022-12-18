@@ -1,4 +1,4 @@
-package com.temimo.facade;
+package com.temimo.structural.facade;
 
 public class Job {
     public void startCheckingJob() {

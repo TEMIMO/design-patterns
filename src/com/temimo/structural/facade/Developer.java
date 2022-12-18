@@ -1,4 +1,4 @@
-package com.temimo.facade;
+package com.temimo.structural.facade;
 
 public class Developer {
     public void doCode(ProblemTracker problemTracker) {
